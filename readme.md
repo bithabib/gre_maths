@@ -1,57 +1,51 @@
-# GRE Math Content Repository
 
-Welcome to the GRE Math Content Repository! This repository is dedicated to storing and organizing various GRE math resources, including notes, YouTube videos, and a website. Whether you're a GRE aspirant looking for study materials or someone interested in GRE math concepts, you'll find valuable content here.
+# Quantitative Reasoning Content Areas - README
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Content Overview](#content-overview)
-- [Contributing](#contributing)
-- [License](#license)
+## Overview
 
-## Getting Started
+Some of the Quantitative Reasoning questions are posed in real-life settings, while others are posed in purely mathematical settings. Many of the questions are "word problems," which must be translated and modeled mathematically. The skills, concepts, and abilities are assessed in the four content areas below.
 
-If you're new to this repository, follow these steps to get started:
+## Content Areas
 
-1. **Clone the Repository**: 
-   ```sh
-   git clone https://github.com/your-username/gre-math-content.git
+### 1. Arithmetic
 
-### 1. Explore the Content:
- -  Check out the `notes/` directory for detailed GRE math notes.
- -  Visit the website by opening `index.html` in your web browser.
- -  Watch the YouTube videos linked in the `videos/` directory.
-### 2. Contribute: 
-If you have GRE math content to add, follow the Contributing section below.
+- Properties and types of integers: divisibility, factorization, prime numbers, remainders, and odd and even integers.
+- Arithmetic operations, exponents, and roots.
+- Concepts such as estimation, percent, ratio, rate, absolute value, the number line, decimal representation, and sequences of numbers.
 
-## Content Overview
-This repository contains the following:
+### 2. Algebra
 
- -  Notes: Comprehensive GRE math notes organized by topics and concepts.
- -  Website: A web-based resource with interactive GRE math content and practice problems.
- -  Videos: Links to educational YouTube videos on GRE math topics.
+- Operations with exponents.
+- Factoring and simplifying algebraic expressions.
+- Relations, functions, equations, and inequalities.
+- Solving linear and quadratic equations and inequalities.
+- Solving simultaneous equations and inequalities.
+- Setting up equations to solve word problems.
+- Coordinate geometry: graphs of functions, equations, and inequalities, intercepts, and slopes of lines.
 
-## Contributing
-We welcome contributions to enhance this repository and make it a valuable resource for GRE math students. If you'd like to contribute, follow these steps:
+### 3. Geometry
 
- 1. Fork the repository.
- 2. Create a new branch for your work:
-```sh
-git checkout -b feature/add-new-content
-```
- 3. Add your content to the appropriate directory (notes/, website/, or videos/).
- 4. Commit your changes:
+- Parallel and perpendicular lines.
+- Circles.
+- Triangles, including isosceles, equilateral, and 30°-60°-90° triangles.
+- Quadrilaterals.
+- Other polygons.
+- Congruent and similar figures.
+- 3-dimensional figures.
+- Area.
+- Perimeter.
+- Volume.
+- The Pythagorean theorem.
+- Angle measurement in degrees.
+- The ability to construct proofs is not tested.
 
-```sh
-git commit -m "Add new GRE math content"
-```
- 5. Push your changes to your forked repository:
+### 4. Data Analysis
 
-```sh
-git push origin feature/add-new-content
-```
- 6. Open a pull request to merge your changes into the main repository.
+- Basic descriptive statistics: mean, median, mode, range, standard deviation, interquartile range, quartiles, and percentiles.
+- Interpretation of data in tables and graphs: line graphs, bar graphs, circle graphs, boxplots, scatterplots, and frequency distributions.
+- Elementary probability: probabilities of compound events and independent events.
+- Conditional probability.
+- Random variables and probability distributions, including normal distributions.
+- Counting methods: combinations, permutations, and Venn diagrams.
 
-Please follow the repository's code of conduct and respect copyright and licensing when contributing content.
-
-## License
-This repository is licensed under the MIT License. Feel free to use and share the content, but remember to provide proper attribution and comply with the license terms.
+These topics are typically taught in high school algebra courses or introductory statistics courses.
