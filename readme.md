@@ -49,3 +49,4 @@ Some of the Quantitative Reasoning questions are posed in real-life settings, wh
 - Counting methods: combinations, permutations, and Venn diagrams.
 
 These topics are typically taught in high school algebra courses or introductory statistics courses.
+Solve all the problem in this website --> https://www.varsitytutors.com/gre_math-help/how-to-evaluate-a-fraction
